@@ -1,14 +1,7 @@
 ### Hey 👋, I'm Sohail - aka [engineergit][website]
 [![Website](https://img.shields.io/website?label=Sohail_Portfolio&style=for-the-badge&url=http://portfoliosohailraza.surge.sh)](http://portfoliosohailraza.surge.sh/)
 
-### Hi there, I'm adf - aka [symmetrically][website] 👋
-
-[![Website](https://img.shields.io/website?label=lhotse-analytics.com&style=for-the-badge&url=https%3A%2F%2Flhotse-analytics.com)](https://lhotse-analytics.com/)
-
-
-
-
-[![Github](https://img.shields.io/github/followers/rickstaa?label=Follow&style=social)](https://github.com/rickstaa)
+[![Github](https://img.shields.io/github/followers/engineergit?label=Follow&style=social)](https://github.com/engineergit)
 
 I'm a Robotics master's student passionate about solving complicated problems and creating software solutions :robot:. I :heart: Open Source and therefore enjoy working on interesting open source projects.
 <!--
