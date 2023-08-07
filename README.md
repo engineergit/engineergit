@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hey 👋, I'm Sohail aka [engineergit][website] 
 
+[![Github](https://img.shields.io/github/followers/rickstaa?label=Follow&style=social)](https://github.com/rickstaa)
+
+I'm a Robotics master's student passionate about solving complicated problems and creating software solutions :robot:. I :heart: Open Source and therefore enjoy working on interesting open source projects.
 <!--
 **engineergit/engineergit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
