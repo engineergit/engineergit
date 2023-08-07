@@ -1,5 +1,5 @@
 ### Hey 👋, I'm Sohail aka [engineergit][website]
-[![Website](https://img.shields.io/website?label=sohail-website.com&style=for-the-badge&url=https%3A%2F%2Flhotse-analytics.com)](http://portfoliosohailraza.surge.sh/)
+[![Website](https://img.shields.io/website?label=Sohail_Portfolio&style=for-the-badge&url=http://portfoliosohailraza.surge.sh)](http://portfoliosohailraza.surge.sh/)
 
 [![Github](https://img.shields.io/github/followers/rickstaa?label=Follow&style=social)](https://github.com/rickstaa)
 
