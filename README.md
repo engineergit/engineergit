@@ -21,7 +21,6 @@ Hey <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/ma
 I'm a full-stack software engineer passionate about solving complicated problems and creating software solutions :robot:. I :heart: Open Source and therefore enjoy working on interesting open source projects.
 
 **About me**
-- ✨ I'm a self-taught passionate Full Stack developer
 
 - 💼 Full Stack Javascript Engineer at [Apptimum Labs](https://apptimumlabs.com/)
 
@@ -89,6 +88,5 @@ I've done so much awesome stuff! Some of them are as follows:<p align="left">
 
 <br/>
 <br/>
-
 
 [website]: http://portfoliosohailraza.surge.sh
