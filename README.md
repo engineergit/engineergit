@@ -3,7 +3,7 @@
 Hey <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="40px"> I'm Sohail - aka  [engineergit][website]
 <h3 align="center">(Full-Stack Web & Mobile Application Developer)</h3>
 </h1>
-
+<div>
 
 <div align="center">
   
@@ -173,3 +173,4 @@ I've done so much awesome stuff! Some of them are as follows:
 <br/>
 
 [website]: http://portfoliosohailraza.surge.sh
+</div>
