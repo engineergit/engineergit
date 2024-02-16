@@ -71,12 +71,11 @@ Contact me here 👇
 <br/>
 <h1>Languages & Stats</h1>
 <div align="center"> 
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-<img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=engineergit&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Sohail Language stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-<img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=engineergit&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Sohail Github stats" />
-</a>
+<div><img height=259 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=engineergit&layout=compact&hide=html&theme=tokyonight" alt="Sohail Top Languages" /></div>
+<br />
+<br />
+<div><img align="center" src="https://github-readme-stats.vercel.app/api?username=engineergit&show_icons=true&theme=tokyonight" alt="Sohail Stats" /></div>
+  
 </div>
 
 <h1>Tech Stacks</h1>
