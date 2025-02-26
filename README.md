@@ -56,7 +56,9 @@ Contact me here 👇
 
 <a href="https://www.linkedin.com/in/sohail-id/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sohail linkedin" height="30" width="40" /></a>
 <a href="https://twitter.com/sohailraza45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sohail twitter" height="30" width="40" /></a>
-  <a href="mailto:sohailmalik059@gmail.com" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/1826/PNG/128/4202011emailgmaillogomailsocialsocialmedia-115677_115624.png" alt="sohail gmail" height="30" width="30" /></a>
+ <a href="mailto:sohailmalik059@gmail.com" target="_blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="sohail gmail" height="30" width="30" />
+</a>
 <a href="https://www.facebook.com/Sohail.Mehdi.90/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Sohail.Mehdi.90" height="30" width="40" /></a>
 </p>
 </div>
