@@ -30,7 +30,7 @@ I'm a full-stack software engineer passionate about solving complicated problems
 
 - 👯 I’m looking to collaborate on DApp & React/Next projects 
 
-- 🌱 Currently, I am learning how to use AI in everyday tasks — and how to think beyond it.
+- 🌱 Currently, I am learning how to integrate AI into daily life.
 
 - 💬 Ask me about anything [here](https://github.com/engineergit/engineergit/issues)
 
