@@ -1,6 +1,6 @@
 <h1 align="center">
   
-Hey <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="40px"> I'm Sohail - aka  [engineergit][website]
+Hey <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="10px"> I'm Sohail - aka  [engineergit][website]
 <h3 align="center">(Full-Stack Web & Mobile Application Developer)</h3>
 </h1>
 <div>
